@@ -1,0 +1,75 @@
+
+"CURRENT_LANGUAGE"="he";
+
+"Berachos"="ברכות";
+"Shabbos"="שבת";
+"Eruvin"="עירובין";
+"Pesachim"="פסחים";
+"Shekalim"="שקלים";
+"Yoma"="יומא";
+"Sukah"="סוכה";
+"Beitzah"="ביצה";
+"Rosh Hashanah"="ראש השנה";
+"Taanis"="תענית";
+"Megilah"="מגילה";
+"Moed Katan"="מועד קטן";
+"Chagigah"="חגיגה";
+"Yevamos"="יבמות";
+"Kesuvos"="כתובות";
+"Nedarim"="נדרים";
+"Nazir"="נזיר";
+"Sotah"="סוטה";
+"Gitin"="גיטין";
+"Kidushin"="קידושין";
+"Bava Kama"="בבא קמא";
+"Bava Metzia"="בבא מציעא";
+"Bava Basra"="בבא בתרא";
+"Sanhedrin"="סנהדרין";
+"Makos"="מכות";
+"Shevuos"="שבועות";
+"Avodah Zarah"="עבודה זרה";
+"Horayos"="הוריות";
+"Zevachim"="זבחים";
+"Menachos"="מנחות";
+"Chulin"="חולין";
+"Bechoros"="בכורות";
+"Erchin"="ערכין";
+"Temurah"="תמורה";
+"Kerisus"="כריתות";
+"Meilah"="מעילה";
+"Nidah"="נידה";
+
+"Jump To Page"="דלג";
+"Back"="דף הבית";
+/*"Made by appSTUDIO Israel"="נוצר על ידי appSTUDIO Israel";*/
+"%@ is not downloaded. Would you like to download now? (requires Internet - not recommend on 3G, file size approximately:%g MB)"="מסכת %@ לא הורדה למכשיר, האם להוריד עכשיו? (דרוש חיבור לאינטרנט - לא מומלץ דרך 3G, גודל הקובץ הוא כ-%g MB)";
+
+"Could not download Daf - Please check your Internet and try again"="דף לא הורד - אנא בדוק את החיבור לאינטרנט ונסה שנית";
+"YES"="כן";
+"NO"="לא";
+"Yes"="כן";
+"No"="לא";
+"Notes" = "הערות";
+"Loading..."="בטעינה";
+"Error"="שגיאה";
+"Download All"="הורד הכל";
+"Donate"="תרומות";
+"Rate App"="דרג אפליקציה";
+"Rate This App"="דרג אפליקציה";
+
+"An update is available. Would you like to update now?"="עדכון זמין, לעדכן עכשיו?";
+
+"Copyright Notice"="הודעות בדבר זכויות יוצרים";
+"Facebook"="פייסבוק";
+"Like us on Facebook"="בקרו אותנו בפייסבוק";
+
+
+"Cache"="מטמון";
+"Delete all"="מחק הכל";
+"More"="עוד";
+"%d pages"="%d דפים";
+"1 page"="דף אחד";
+"Landscape Mode"="תצוגה רוחבית";
+"One Page"="עמוד אחד";
+"Two Pages"="שני עמודים";
+"Settings"="הגדרות";
